@@ -8,6 +8,11 @@
   color: black;
 }
 
+#paragraph:hover  {
+  background-color: yellow;
+  border: 2px solid black;
+}
+
 .intro{
   font-weight: bold;
   font-style: italic;
