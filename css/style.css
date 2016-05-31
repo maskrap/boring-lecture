@@ -3,6 +3,11 @@
   color: white;
 }
 
+.white-background {
+  background-color: white;
+  color: black;
+}
+
 .intro{
   font-weight: bold;
   font-style: italic;
